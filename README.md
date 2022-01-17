@@ -29,7 +29,6 @@ Soy un Desarrollador web innovador, organizado y con capacidad para aprender y a
 
 ### Mi nombre es Elias Steurer
 - Web developer
-- Innovador y organizado
 - Curioso de nacimiento
 <!--
 **EliasSt43/EliasSt43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
