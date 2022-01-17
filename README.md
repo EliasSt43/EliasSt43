@@ -1,10 +1,13 @@
 ## Buenas! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/home?lang=es">
-  <img align="left" alt="EliasSteurer Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="EliasSteurer Twitter" width="30px" color="white" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
 </a>
 <a href="https://www.linkedin.com/in/elias-steurer-4375471b6/">
-  <img align="left" alt="EliasSteurer Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="EliasSteurer Linkdein" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="https://www.instagram.com/elias_steurer/">
+  <img align="left" alt="EliasSteurer Instagram" width="25px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 <br>
 <br>
